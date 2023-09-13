@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main: prints _putchar when called
+ * main -  prints _putchar when called
+ * Description: a function that prints _putchar when called
  *
  * Return: zero for this program
 */
