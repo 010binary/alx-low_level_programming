@@ -1,1 +1,1 @@
- this my readme for the intro to C course in ALX
+ this is the README for memory allocation in C from my ALX course
