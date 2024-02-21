@@ -3,17 +3,20 @@
 Function to return the perimeter of an island
 """
 
+
 def island_perimeter(grid):
+
     """
     Calculate the perimeter of the island described in the grid.
 
     Args:
-        grid (List[List[int]]): A list of lists of integers representing the grid.
+        grid (List[List[int]]): A list of lists of int rep the grid.
 
     Returns:
         int: The perimeter of the island.
 
     """
+
     perimeter = 0
 
     for i in range(len(grid)):
